@@ -2,13 +2,9 @@
 
 A complete solar light intensity monitoring system that measures sunlight levels in lux and logs data over time.
 
-## 📋 Project Overview
+## 📋 Project Overview & Purpose
 
-This project combines embedded systems with Python data logging to create a real-time sun intensity measurement and recording system. It uses the BH1750 digital light sensor interfaced with an ESP32 microcontroller to measure ambient light intensity and log measurements to both on-board storage and a connected computer.
-
-## 🎯 Purpose of the Project
-
-The primary purpose of this project is to provide a reliable, low-cost solution for continuously monitoring and recording solar light intensity. By capturing real-time lux data, this system helps in evaluating potential solar energy yield, analyzing environmental sunlight patterns, and assisting in solar panel placement optimization.
+This project combines embedded systems with Python data logging to create a real-time sun intensity measurement and recording system. It uses the BH1750 digital light sensor interfaced with an ESP32 microcontroller to measure ambient light intensity and log measurements to both on-board storage and a connected computer. The primary purpose of this project is to provide a reliable, low-cost solution for continuously monitoring and recording solar light intensity. By capturing real-time lux data, this system helps in evaluating potential solar energy yield, analyzing environmental sunlight patterns, and assisting in solar panel placement optimization.
 
 ## What's Included
 
